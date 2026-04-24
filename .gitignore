@@ -1,0 +1,6 @@
+# Large k6 CSV data files
+results/*/data/k6_csv/*.csv
+
+# Python
+__pycache__/
+*.pyc
